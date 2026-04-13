@@ -1,0 +1,12 @@
+{
+  "export_job_id": "47965187-86b2-4fca-a0cd-4a40f92e601a",
+  "id_short": 579962,
+  "published_at": "2026-04-13T19:32:10Z",
+  "repo_name": "all-restaurants-in-quincy-massachusetts-us-sample-579962",
+  "sample_asset_name": "beamstation_579962_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/579962/beamstation_579962_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_records": 20,
+  "sample_sha256": "386ebdf14ff0b7e87740b29f22ddfb8710fb284db108214e32519de9e82954d3",
+  "sample_size_bytes": 91357,
+  "total_records": 208
+}
