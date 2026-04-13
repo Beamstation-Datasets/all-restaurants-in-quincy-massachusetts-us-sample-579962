@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census covering Quincy, Massachusetts with a population of over 101k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Quincy, Massachusetts, US",
+  "export_job_id": "47965187-86b2-4fca-a0cd-4a40f92e601a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 579962,
+  "location_name": "Quincy",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-quincy-massachusetts-us-sample-579962",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/579962/beamstation_579962_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_pct": 9.62,
+  "sample_records": 20,
+  "sample_sha256": "386ebdf14ff0b7e87740b29f22ddfb8710fb284db108214e32519de9e82954d3",
+  "sample_size_bytes": 91357,
+  "total_records": 208,
+  "updated_at": "2026-03-31T13:26:53.127955+00:00"
+}
