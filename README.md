@@ -1,6 +1,6 @@
 # All Restaurants in Quincy, Massachusetts, US
 
-> Free BeamStation sample export with 23 rows and masked direct-contact fields.
+> Free BeamStation sample export with 18 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `579962` |
 | Location | Quincy |
 | Category | Restaurants |
-| Full dataset size | 236 records |
-| Free sample size | 23 records (9.75%) |
-| Last export | 2026-04-14T13:44:46.636327+00:00 |
+| Full dataset size | 187 records |
+| Free sample size | 18 records (9.63%) |
+| Last export | 2026-04-21T14:43:16.496738+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-quincy-massachusetts-us-sample-579962/releases/download/sample-latest/beamstation_579962_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
